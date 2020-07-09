@@ -1,5 +1,6 @@
-### Hi there 👋
+### I'm Jacob ( he/him )
 
+I am an EM at 🕹[PlayVS](https://playvs.com), have a company 🧘‍♂️[Mujō](https://github.com/mujo-code), and love 🎨creative coding. I am currently working on a few React Native, and canvas based projects that create art, and motion with code.
 <!--
 **jcblw/jcblw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
