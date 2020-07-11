@@ -5,7 +5,7 @@
 
 ![PRONOUNS](https://img.shields.io/static/v1?label=pronouns&message=(he/him)&color=ffa47b)
 
-I have been creating open source for over 7 years, now and coding for over a decade. I love creative coding and you see that in the things I create. I'm am currently using code to better myself in hopes one day that can my code can also better others. **Namaste**
+I have been creating open source for over 7 years, now and coding for over a decade. I love creative coding and you see that in the things I create. I am currently using code to better myself in hopes, one day, my code can also better others. **Namaste**
 
 [Read my latest blog](https://jcbl.ws/growing-a-digital-flower).
 
