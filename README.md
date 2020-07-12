@@ -3,7 +3,7 @@
 
 # 🎨 I'm Jacob
 
-![PRONOUNS](https://img.shields.io/static/v1?label=pronouns&message=(he/him)&color=ffa47b)
+![PRONOUNS](https://img.shields.io/static/v1?label=pronouns&message=(he/them)&color=ffa47b)
 
 I have been creating open source for over 7 years, now and coding for over a decade. I love creative coding and you see that in the things I create. I am currently using code to better myself in hopes, one day, my code can also better others. **Namaste**
 
