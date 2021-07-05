@@ -10,4 +10,4 @@ I love making OSS, and creative coding. I am currently using code to better myse
 * My company is 🧘‍♂️[Mujō](https://github.com/mujo-code)
 * I work at 🦜[Toucan](https://jointoucan.com)
 
-![jcblw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcblw&count_private=true)
+![jcblw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcblw&count_private=true&theme=gruvbox)
