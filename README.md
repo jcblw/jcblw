@@ -10,4 +10,4 @@ I love making OSS, and creative coding. I am currently using code to better myse
 * My company is 🧘‍♂️[Mujō](https://github.com/mujo-code)
 * I work at 🦜[Toucan](https://jointoucan.com)
 
-[![Source Karma badge for @jcblw](https://sourcekarma-og.vercel.app/api/jcblw/github)](https://sourcekarma.vercel.app/jcblw)
+![jcblw's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcblw&count_private=true)
