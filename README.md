@@ -5,7 +5,7 @@
 
 I want to find out what the computers equivelent to meditation.
 
-[Read my latest blog](https://jcbl.ws/love-war-augmenting-web/).
+[Read my latest blog](https://jcbl.ws/chrome-extension-react-devtools/).
 
 * My company is 🧘‍♂️[Mujō](https://github.com/mujo-code)
 * I work at 🦜[Toucan](https://jointoucan.com)
