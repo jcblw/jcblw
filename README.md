@@ -8,4 +8,3 @@ I was wanding for a while, but I found something that means a lot to me. I am ha
 [Read my latest blog](https://jcbl.ws/2021-review).
 
 * My company is 🧘‍♂️[Mujō](https://github.com/mujo-code)
-* I work at 🦜[Toucan](https://jointoucan.com)
