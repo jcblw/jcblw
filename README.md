@@ -1,9 +1,9 @@
 > ##### There is no way to happiness - happiness is the way. - Thích Nhất Hạnh
 
-# 🎒 I'm Jacob
+### I am Jacob, 
 
-I was wandering for a while, but I found something that means a lot to me. I am happy coding, and I am happy not coding. I still get lost in nature, but I get lost in the abstractions of code more often. Github is a place for me to calm my thought and write down the systems that manifest themselves in my head, where my blog is a place to organize my thoughts.
+a web developer with over a decade of experience in the field. My passion for coding and open-source technologies drives my desire to create and innovate. I believe that through technology, we have the power to increase access to new experiences and make a positive impact in the world.
 
-I have been a web developer for over a decade. I love open source, and web technologies. My goal in life is to incread access to new experiences. This has manifested itself in many ways in my work.
+At the heart of my work lies a love for nature and the beauty of the natural world. I find solace in the stillness of nature and the abstractions of code. My Github profile serves as a sanctuary for my thoughts and creations, while my blog is a platform to organize and share my ideas.
 
-My company is 🧘‍♂️[Mujō](https://github.com/mujo-code)
+I am the founder of 🧘‍♂️ [Mujō](https://getmujo.com), a company dedicated to crafting meaningful and impactful digital experiences. Join me on my journey as I strive to bring happiness and accessibility to all through the power of technology.
