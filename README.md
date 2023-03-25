@@ -6,4 +6,4 @@ a web developer with over a decade of experience in the field. My passion for co
 
 At the heart of my work lies a love for nature and the beauty of the natural world. I find solace in the stillness of nature and the abstractions of code. My Github profile serves as a sanctuary for my thoughts and creations, while my blog is a platform to organize and share my ideas.
 
-I am the founder of 🧘‍♂️ [Mujō](https://getmujo.com), a company dedicated to crafting meaningful and impactful digital experiences. Join me on my journey as I strive to bring happiness and accessibility to all through the power of technology.
+I am a software engineer at 🌎 [Commons](thecommons.earth), and the founder of 🧘‍♂️ [Mujō](https://getmujo.com). Join me on my journey as I strive to bring happiness and accessibility to all through the power of technology.
